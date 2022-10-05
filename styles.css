@@ -1,0 +1,44 @@
+body{
+    background-color:grey;
+     }
+    div{
+     box-sizing: border-box;
+     }
+    header {
+    background: white;
+    }
+    header h1{
+    margin:0;
+    }
+    h1 {
+    background-color: white;
+    padding: 30px;
+    margin: 0;
+    width:auto;
+    }
+    div.post{
+    background : white;
+    }
+    div.post img{
+    width: 100%;
+    }
+    div.post .post-header:first-child {
+        display:flex,
+        width: 80%;
+        background: white;
+    }
+    div.post .post-header:last-child {
+        display: flex,
+        width: 20%;
+        color: grey;
+    }    
+    div.post h2; div.post p{
+    padding: 10px;
+    margin:0;
+    display: flex,
+    }
+    div.container {
+    width: 600px;px;
+    margin: auto; 
+    }
+    
