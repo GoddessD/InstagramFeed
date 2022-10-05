@@ -18,27 +18,32 @@ body{
     }
     div.post{
     background : white;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
     }
     div.post img{
     width: 100%;
     }
     div.post .post-header:first-child {
-        display:flex,
+        display:flex;
         width: 80%;
         background: white;
     }
     div.post .post-header:last-child {
-        display: flex,
+        display: flex;
         width: 20%;
         color: grey;
     }    
-    div.post h2; div.post p{
+    div.post p{
     padding: 10px;
     margin:0;
     display: flex,
     }
     div.container {
-    width: 600px;px;
-    margin: auto; 
+     margin: auto; 
     }
     
